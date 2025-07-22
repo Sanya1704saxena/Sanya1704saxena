@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 As a postgraduate student in Statistics and Data Science, I specialize in applying machine learning, deep learning, and AI to meaningful, real-world challenges. My work spans domains such as healthcare, public infrastructure, and intelligent systems, with a focus on privacy, ethics, and performance. I believe in using data not only to model and predict—but to drive decisions that lead to measurable improvements in society and industry.
 
 ---
-- 📄 [My Resume](https://drive.google.com/file/d/1phX7awJwIKxbpC-EZkpHS4o8nldvH1LM/view?usp=sharing)  
+- 📄 [My Resume](https://drive.google.com/file/d/18ZIsGSo5kKTf72HMwhOgTwSzQ2-dtrau/view?usp=sharing)  
 
 ---
 
