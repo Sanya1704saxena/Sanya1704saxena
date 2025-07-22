@@ -95,7 +95,7 @@ As a postgraduate student in Statistics and Data Science, I specialize in applyi
 
 - [**Dynamic Route Optimization & Carbon Emission Reduction**](#)  
   &emsp;→ Integrated real-time traffic, AQI & weather APIs with Azure + A* search
-  
+
   &emsp;→ Reduced carbon emissions by 23% and idle time by 12%  
 
 - [**LangChain Resume–JD RAG Q&A Agent**](#)  
