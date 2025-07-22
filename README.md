@@ -95,18 +95,22 @@ As a postgraduate student in Statistics and Data Science, I specialize in applyi
 
 - [**Dynamic Route Optimization & Carbon Emission Reduction**](#)  
   &emsp;→ Integrated real-time traffic, AQI & weather APIs with Azure + A* search
+  
   &emsp;→ Reduced carbon emissions by 23% and idle time by 12%  
 
 - [**LangChain Resume–JD RAG Q&A Agent**](#)  
  &emsp;→ Semantically matched 220+ resumes to 1.6M JDs using LLMs + ChromaDB
+
  &emsp;→ Used local inference with `llama.cpp` and cosine re-ranking  
 
 - [**Drug Efficacy Analysis (Asthma)**](#)  
   &emsp;→ Compared Drug S vs Drug D for asthma outcomes using IPTW + XGBoost
+  
   &emsp;→ Found 47% lower exacerbation rate with Drug S  
 
 - [**Federated Learning for ICU Mortality**](#)  
-  &emsp;→  Built a privacy-preserving FL pipeline using Intel OpenFL across 5+ simulated clients to predict ICU patient mortality. 
+  &emsp;→  Built a privacy-preserving FL pipeline using Intel OpenFL across 5+ simulated clients to predict ICU patient mortality.
+  
   &emsp;→ Set up secured TLS certificate-based aggregation for encrypted gRPC communication between the aggregator and partners, allowing for production-grade, compliance-ready FL processes for medical data. 
 
 ---
