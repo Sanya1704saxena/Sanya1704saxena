@@ -68,15 +68,12 @@ As a postgraduate student in Statistics and Data Science, I specialize in applyi
 ![FAISS](https://img.shields.io/badge/FAISS-00599C?style=flat-square)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-9C27B0?style=flat-square)
+![RAG Pipeline](https://img.shields.io/badge/RAG_Pipeline-006666?style=flat-square)
 
 ### Federated Learning & Privacy  
 ![OpenFL](https://img.shields.io/badge/OpenFL-00BFA6?style=flat-square)
 ![TLS Certificates](https://img.shields.io/badge/TLS_Certificates-0288D1?style=flat-square)
 ![Privacy-Preserving_AI](https://img.shields.io/badge/Privacy--Preserving_AI-424242?style=flat-square)
-
-### Automation, RAG & Workflows  
-![RAG Pipeline](https://img.shields.io/badge/RAG_Pipeline-006666?style=flat-square)
-
 
 ### Deployment & Platforms  
 ![Azure](https://img.shields.io/badge/Azure_Model-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
@@ -84,8 +81,6 @@ As a postgraduate student in Statistics and Data Science, I specialize in applyi
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-###  Dev & Utilities  
 ![Web Scraping](https://img.shields.io/badge/Web_Scraping-00897B?style=flat-square)
 
 
@@ -101,7 +96,7 @@ As a postgraduate student in Statistics and Data Science, I specialize in applyi
 - [**LangChain Resume–JD RAG Q&A Agent**](#)  
  &emsp;→ Semantically matched 220+ resumes to 1.6M JDs using LLMs + ChromaDB
 
- &emsp;→ Used local inference with `llama.cpp` and cosine re-ranking  
+  &emsp;→ Used local inference with `llama.cpp` and cosine re-ranking  
 
 - [**Drug Efficacy Analysis (Asthma)**](#)  
   &emsp;→ Compared Drug S vs Drug D for asthma outcomes using IPTW + XGBoost
