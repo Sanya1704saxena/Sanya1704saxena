@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Sanya Saxena</h1>
-<h3 align="center">Data Science Graduate | Real-world ML Practitioner | AI for Good Enthusiast</h3>
+<h3 align="center">Data Science Graduate | Real-world ML Practitioner </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sanya1704saxena&label=Profile%20views&color=0e75b6&style=flat" alt="Sanya1704saxena" />
